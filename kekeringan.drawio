@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36 Edg/92.0.902.67" version="29.2.7">
   <diagram name="Page-1" id="1Maz-broEZ85O9Acu-pH">
-    <mxGraphModel dx="1568" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1671" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -42,8 +42,8 @@
             <mxPoint x="240" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="o-LeHGwq9C2f4oVpd1e5-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="Clipping according to the boundaries of Jatirogo District" vertex="1">
-          <mxGeometry height="20" width="273.75" x="103.13" y="860" as="geometry" />
+        <mxCell id="o-LeHGwq9C2f4oVpd1e5-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="Clipping according to the boundaries of Tambakboyo District" vertex="1">
+          <mxGeometry height="20" width="306.87" x="86.57" y="860" as="geometry" />
         </mxCell>
         <mxCell id="o-LeHGwq9C2f4oVpd1e5-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Times New Roman;" value="Raster Calculator" vertex="1">
           <mxGeometry height="20" width="101.25" x="189.38" y="890" as="geometry" />
